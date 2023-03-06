@@ -2,4 +2,4 @@
 
 set -x
 
-gcc -m32 main.c
+gcc -m32 interp.c
